@@ -1,2 +1,2 @@
 # Project-2
-Program Perhitungan menggunakan Pemograman C++
+Program Penjumlahan Matriks menggunakan Pemograman C++
